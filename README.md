@@ -1,4 +1,11 @@
 <p align="center">
+  <img src="./banner.png" alt="Abstract blue and purple wave" width="100%">
+</p>
+
+<br>
+
+
+<p align="center">
   <strong>Curious about technology. Always learning. Building along the way.</strong>
 </p>
 
