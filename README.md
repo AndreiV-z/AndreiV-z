@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./banner.png" alt="Abstract blue and purple wave" width="100%">
+  <img src="./banner.gif" alt="Abstract dark red and black burning ship fractal" width="100%">
 </p>
-
-<br>
 
 
 <p align="center">
