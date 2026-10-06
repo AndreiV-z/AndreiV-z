@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Artificial Intelligence &nbsp; / &nbsp; Computer Vision &nbsp; / &nbsp; Software Development
+  Artificial Intelligence &nbsp; / &nbsp; Software Development &nbsp; / &nbsp; Computer Vision
 </p>
 
 <br>
